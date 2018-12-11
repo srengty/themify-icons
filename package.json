@@ -1,5 +1,8 @@
 {
     "name": "themify-icons",
     "version": "1.0.0",
-    "description": ""
+    "description": "",
+    "main": "",
+    "repository": "https://github.com/srengty/themify-icons",
+    "license": ""
 }
